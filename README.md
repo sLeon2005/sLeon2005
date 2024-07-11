@@ -1,9 +1,18 @@
 # Hello there! I'm Sebastián León 👋🦁
 
 ## About
-* 🎓Second year Mechatronics Engineering student at Tecnológico de Monterrey
-Soy un apasionado de la robótica y la programación. Me encanta crear proyectos que combinan hardware y software para resolver problemas del mundo real.
+* 🎓 Second year Mechatronics Engineering student at Tecnológico de Monterrey
+* 💡 Passionate about programming, electronics and robotics
+* 🤖 FIRST Alumn from team 5959 Titanium Rams
+* 🎨 Creativity & efficiency
 
+## Skills
+* 🐍 Python
+* ⚡ Arduino
+* 🖥️ PCB design
+* 🛠️ CAD design
+* 🖨️ 3D printing
+<!--
 ## Proyectos Destacados
 - **[Proyecto de Robótica](enlace al repositorio):** Un pequeño carro controlado por Arduino/Raspberry Pi.
 - **[Nombre de otro proyecto](enlace al repositorio):** Breve descripción del proyecto.
