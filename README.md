@@ -1,6 +1,7 @@
-# ¡Hola, soy Sebastián León! 👋
+# Hello there! I'm Sebastián León 👋🦁
 
-## Sobre mí
+## About
+* 🎓Second year Mechatronics Engineering student at Tecnológico de Monterrey
 Soy un apasionado de la robótica y la programación. Me encanta crear proyectos que combinan hardware y software para resolver problemas del mundo real.
 
 ## Proyectos Destacados
