@@ -4,6 +4,7 @@
 * 🎓 Second year Mechatronics Engineering student at Tecnológico de Monterrey
 * 💡 Passionate about programming, electronics and robotics
 * 🤖 FIRST Alumn from team 5959 Titanium Rams
+* 🎸 Bass player
 * 🎨 Creativity & efficiency
 
 ## Skills
