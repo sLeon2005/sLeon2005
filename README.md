@@ -13,6 +13,12 @@
 * 🖥️ PCB design
 * 🛠️ CAD design
 * 🖨️ 3D printing
+
+## Currently learning
+* 📈 Matlab
+* 🌐 Web Development
+* 📱 Mobile App Development
+* 📷 Photography
 <!--
 ## Proyectos Destacados
 - **[Proyecto de Robótica](enlace al repositorio):** Un pequeño carro controlado por Arduino/Raspberry Pi.
