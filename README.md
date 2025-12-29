@@ -1,7 +1,7 @@
 # Hello there! I'm Sebastián León 👋🦁
 
 ## About
-* 🎓 Second year Mechatronics Engineering student at Tecnológico de Monterrey
+* 🎓 Third year Mechatronics Engineering student at Tecnológico de Monterrey campus Querétaro
 * 💡 Passionate about programming, electronics and robotics
 * 🤖 FIRST Alumn from team 5959 Titanium Rams
 * 🎸 Bass player
