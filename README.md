@@ -11,6 +11,8 @@
 * 🐍 Python
 * ⚡ Arduino
 * 🖥️ PCB design
+* 🚦 PLC Programming
+* ✈️ Embedded systems
 * 🛠️ CAD design
 * 🖨️ 3D printing
 
