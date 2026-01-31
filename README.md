@@ -3,7 +3,7 @@
 ## About
 * 🎓 Third year Mechatronics Engineering student at Tecnológico de Monterrey campus Querétaro
 * 💡 Passionate about programming, electronics and robotics
-* 🤖 FIRST Alumn from team 5959 Titanium Rams
+* 🤖 FIRST Alumni from team 5959 Titanium Rams
 * 🎸 Bass player
 * 🎨 Creativity & efficiency
 
@@ -15,10 +15,10 @@
 * ✈️ Embedded systems
 * 🛠️ CAD design
 * 🖨️ 3D printing
+* 🌐 Web Development
 
 ## Currently learning
 * 📈 Matlab
-* 🌐 Web Development
 * 📱 Mobile App Development
 * 📷 Photography
 <!--
